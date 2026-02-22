@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Hokori",
+  "base_artist": "Watson",
+  "createdAt": "2026-02-22T18:12:40.071846Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hokori to Ogori",
+      "artist": "Aijo Karen (CV: Momoyo Koyama)",
+      "has_synced": true,
+      "path": "select/01_Hokori_to_Ogori_Aijo_Karen_(CV__Momoyo_Koyama).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ai to Iu Na no Hokori",
+      "artist": "S.E.S.",
+      "has_synced": true,
+      "path": "select/02_Ai_to_Iu_Na_no_Hokori_S.E.S..lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hokori",
+      "artist": "Watson",
+      "has_synced": true,
+      "path": "select/03_Hokori_Watson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hokori Takaki Idol",
+      "artist": "Tokino Sora",
+      "has_synced": false,
+      "path": "select/04_Hokori_Takaki_Idol_Tokino_Sora.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hokori",
+      "artist": "Watson",
+      "has_synced": false,
+      "path": "select/pl_01_Hokori_Watson.txt"
+    }
+  ]
+}
